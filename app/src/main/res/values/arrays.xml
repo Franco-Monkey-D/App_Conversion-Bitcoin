@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opciones">
+        <item>Seleccione una opcion  ↷</item>
+        <item> Dolar Canadiense CAD</item>
+        <item> Libra Esterlina GBP</item>
+        <item> Franco suizo CHF</item>
+        <item> Rand sudafricano ZAR</item>
+    </string-array>
+</resources>
